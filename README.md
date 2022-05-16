@@ -13,7 +13,7 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser
 
 ## To start Database
 In the Database directory, you can run:
-### 'node index.js'
+### `node index.js`
 
 
 
